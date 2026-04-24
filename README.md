@@ -5,8 +5,7 @@ This repository provides the code and configuration files for the Mine-AUG rock 
 ## Dataset
 
 The full dataset is available on Hugging Face:
-
-https://huggingface.co/datasets/YOUR_USERNAME/Mine-AUG
+(https://huggingface.co/datasets/Wl409/Mine_Rock_Bolt_Plate)
 
 ## Description
 
