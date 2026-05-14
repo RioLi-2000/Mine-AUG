@@ -1,7 +1,10 @@
 # Mine-AUG
 
 This repository provides the code and configuration files for the Mine-AUG rock bolt plate detection dataset and augmentation experiments.
+The codes built on MMyolo framework.
 
+put the three python file in config file into mmyolo/configs path
+put the folder"mine_aug" in mmyolo/mine_aug
 ## Dataset
 
 The full dataset is available on Hugging Face:
