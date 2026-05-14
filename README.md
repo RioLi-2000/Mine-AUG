@@ -3,7 +3,8 @@
 This repository provides the code and configuration files for the Mine-AUG rock bolt plate detection dataset and augmentation experiments.
 The codes built on MMyolo framework.
 
-put the three python file in config file into mmyolo/configs path
+put the three python file in config folder into mmyolo/configs path
+
 put the folder"mine_aug" in mmyolo/mine_aug
 ## Dataset
 
@@ -12,7 +13,7 @@ The full dataset is available on Hugging Face:
 
 ## Description
 
-Mine-AUG contains 289 raw underground mine images and 7,946 annotated rock bolt plate instances.
+MRBP dataset contains 289 raw underground mine images and 7,946 annotated rock bolt plate instances.
 
 ## Annotation format
 
